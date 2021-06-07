@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/sdu829/LuoC/doorhandle_disinfection/build",
+  "command": "/usr/bin/c++ -I../ -I../include -isystem /usr/local/include/opencv -isystem /home/sdu829/software/pytorch-cxx/libtorch/include -isystem /home/sdu829/software/pytorch-cxx/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda-10.1/include -std=c++11 -g -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++14 -o CMakeFiles/doorhandle_disinfection.dir/main.cpp.o -c /home/sdu829/LuoC/doorhandle_disinfection/main.cpp",
+  "file": "/home/sdu829/LuoC/doorhandle_disinfection/main.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/doorhandle_disinfection/build",
+  "command": "/usr/bin/c++ -Ddoorhandle_disinfection_EXPORTS -I../ -I../include -isystem /usr/local/include/opencv -isystem /home/sdu829/software/pytorch-cxx/libtorch/include -isystem /home/sdu829/software/pytorch-cxx/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda-10.1/include -std=c++11 -g -fPIC -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++14 -o CMakeFiles/doorhandle-disinfection.dir/src/device.cpp.o -c /home/sdu829/LuoC/doorhandle_disinfection/src/device.cpp",
+  "file": "/home/sdu829/LuoC/doorhandle_disinfection/src/device.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/doorhandle_disinfection/build",
+  "command": "/usr/bin/c++ -Ddoorhandle_disinfection_EXPORTS -I../ -I../include -isystem /usr/local/include/opencv -isystem /home/sdu829/software/pytorch-cxx/libtorch/include -isystem /home/sdu829/software/pytorch-cxx/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda-10.1/include -std=c++11 -g -fPIC -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++14 -o CMakeFiles/doorhandle-disinfection.dir/src/camera.cpp.o -c /home/sdu829/LuoC/doorhandle_disinfection/src/camera.cpp",
+  "file": "/home/sdu829/LuoC/doorhandle_disinfection/src/camera.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/doorhandle_disinfection/build",
+  "command": "/usr/bin/c++ -Ddoorhandle_disinfection_EXPORTS -I../ -I../include -isystem /usr/local/include/opencv -isystem /home/sdu829/software/pytorch-cxx/libtorch/include -isystem /home/sdu829/software/pytorch-cxx/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda-10.1/include -std=c++11 -g -fPIC -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++14 -o CMakeFiles/doorhandle-disinfection.dir/src/ssd.cpp.o -c /home/sdu829/LuoC/doorhandle_disinfection/src/ssd.cpp",
+  "file": "/home/sdu829/LuoC/doorhandle_disinfection/src/ssd.cpp"
+},
+{
+  "directory": "/home/sdu829/LuoC/doorhandle_disinfection/build",
+  "command": "/usr/bin/c++ -Ddoorhandle_disinfection_EXPORTS -I../ -I../include -isystem /usr/local/include/opencv -isystem /home/sdu829/software/pytorch-cxx/libtorch/include -isystem /home/sdu829/software/pytorch-cxx/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda-10.1/include -std=c++11 -g -fPIC -D_GLIBCXX_USE_CXX11_ABI=1 -std=c++14 -o CMakeFiles/doorhandle-disinfection.dir/src/move.cpp.o -c /home/sdu829/LuoC/doorhandle_disinfection/src/move.cpp",
+  "file": "/home/sdu829/LuoC/doorhandle_disinfection/src/move.cpp"
+}
+]
